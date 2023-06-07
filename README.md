@@ -1,6 +1,3 @@
 # git
-a
-b
-c
-cznjxbchjsbcvjhzxbvcjzxbvjkkbzxjkvcnzbxhasvdxbhsaaaaaaaaaaa
+cznjxbchjsbcvjhzxbvcjzxbvjkkbzxjkvcnzbbbbbbbbbbbb
 xzcnkjnzxjcnzkdeo project
