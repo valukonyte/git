@@ -1,6 +1,2 @@
 # git
-a
-b
-c
-cznjxbchjsbcvjhzxbvcjzxbvjkkbzxjkvcnzbxhasvdxbhsaaaaaaaaaaa
-xzcnkjnzxjcnzkdeo project
+testas 
